@@ -3,7 +3,11 @@
 //  Concentration2
 //
 //  Created by Zumran Nain on 2022-01-17.
-// Second commit 
+/*
+ 
+ A demo concentration game using some attributes, and following along
+ the ios Developer course
+ */
 
 
 import UIKit
